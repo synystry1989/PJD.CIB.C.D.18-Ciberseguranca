@@ -1,7 +1,7 @@
 print("----"*10, "ex 1",  "----"*10 )
 #Faça um Programa que mostre a mensagem "ola mundo" na tela.
 
-
+print("Ola Mundo")
 
 print("----"*10, "ex 2",  "----"*10 )
 #Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
